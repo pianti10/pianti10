@@ -2,8 +2,6 @@
 
 - 📫 How to reach me **nicolaspiantini@gmail.com**
 
-- 📄 Know about my experiences [https://rxresu.me/pianti10/nicolas-piantini](https://rxresu.me/pianti10/nicolas-piantini)
-
 - 📄 Connect with me in linkedin [https://www.linkedin.com/in/nicol%C3%A1s-piantini]
 
 <h3 align="left">Languages and Tools:</h3>
